@@ -1,0 +1,7 @@
+.vscode
+data/
+__pycache__
+weights/
+lightning_logs
+submissions
+topk
